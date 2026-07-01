@@ -1,0 +1,2680 @@
+canonical_identifier: bkk:krp/KR6v0559/v1
+canonical_location: https://kanripo.org/bkk/KR6v0559/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太虛大師全書．第二編　五乘共學
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX03/TX03n0002.xml
+    old_id: TX03n0002
+  edition:
+    short: bkk
+editions:
+- short: 太虛
+  label: 太虛
+  source_xml_id: wit.orig
+- short: TX
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0559_001.yaml, hash: 'sha256:fae57ec98f938a78b0e3c7ccb3d101ccee570ef456cd72726b3baf1f11c213a1'}
+  - {seq: 2, filename: KR6v0559_002.yaml, hash: 'sha256:ea57da0bc1aabfb249f6ba9ccd2a27bd569e4b84f04ac82ea78f36a5f413ea1d'}
+  - {seq: 3, filename: KR6v0559_003.yaml, hash: 'sha256:09a65e05c4ea8cbc40d3edc72062fa868ce31a6520c76396e214afd2856f6bfd'}
+  - {seq: 4, filename: KR6v0559_004.yaml, hash: 'sha256:91d5f110114b0ae61290a1e4283a8f51395b5129737959509c77eab17df72f17'}
+  - {seq: 5, filename: KR6v0559_005.yaml, hash: 'sha256:23364a2b2218db8e746b76385da894b1dd66a728b92fb1b2a450d87daeb53de2'}
+  - {seq: 6, filename: KR6v0559_006.yaml, hash: 'sha256:6c80e337457617770645c5d369487237d7dcd0d35410ae6ee9cc849eaabee469'}
+  - {seq: 7, filename: KR6v0559_007.yaml, hash: 'sha256:88754dee9f2466f6303d61dcba6ef3d19ffb48c2599b8575fc80ca2ef6717aa2'}
+  - {seq: 8, filename: KR6v0559_008.yaml, hash: 'sha256:7123dd8eb2e16d02306db65759210d4c2f191d6ff11bbb43f166daed17c4a818'}
+  - {seq: 9, filename: KR6v0559_009.yaml, hash: 'sha256:9275ce4f9c90aead390e867946683cf17c648a9c0f02a8173a0792115d011685'}
+  - {seq: 10, filename: KR6v0559_010.yaml, hash: 'sha256:c2bc4fc2ac8a3575310d972896e41f95c62599beb498a3da9a005e176bdb7651'}
+  - {seq: 11, filename: KR6v0559_011.yaml, hash: 'sha256:c92ec929b2c93a67e34c9993d2c8b20b930b10f7086d14abc1242fe14da572dc'}
+  - {seq: 12, filename: KR6v0559_012.yaml, hash: 'sha256:df0240cc8ee1828f155aa948d32f07ff6ce7c9926b9f25356831fabd240d42d1'}
+  - {seq: 13, filename: KR6v0559_013.yaml, hash: 'sha256:227b9574cf4b7728ee18d7c21b40f28ccdf008f3d51933da34539322c77d06dc'}
+  - {seq: 14, filename: KR6v0559_014.yaml, hash: 'sha256:31d2a61063e0ebd72d71347a65c4b57dd5c72a4a04886e00a24b421cf02d5f01'}
+  - {seq: 15, filename: KR6v0559_015.yaml, hash: 'sha256:bb5fc01e8193020e6191764316581a1c74eb3c5fa97a88d1307364407fadb42f'}
+  - {seq: 16, filename: KR6v0559_016.yaml, hash: 'sha256:0e8be33afca459a8299cedc07baeebdefedcdb6136e4ceb0221d4f962551c5b6'}
+  - {seq: 17, filename: KR6v0559_017.yaml, hash: 'sha256:bb40985a66eea96667c9695f8a51970582f73a3b3d7282a3243912fc467cce96'}
+  - {seq: 18, filename: KR6v0559_018.yaml, hash: 'sha256:9b65b1eb0753744c196f16a821bd877e504c7473bfb225ade3d4ef6c53a09135'}
+  - {seq: 19, filename: KR6v0559_019.yaml, hash: 'sha256:c01dc4621d34f9ca16ebe322d03108e4b4f61da1e00079321d2fa54f497aeae0'}
+  - {seq: 20, filename: KR6v0559_020.yaml, hash: 'sha256:06997c9d97158528138f3c9b9694b599f7b005ed34bd0f32c0960931f6d28d8f'}
+  - {seq: 21, filename: KR6v0559_021.yaml, hash: 'sha256:3f292746eb1c17fa2c7aeae0c78ae86330819c327d84c8ba20571e996d52c24e'}
+  - {seq: 22, filename: KR6v0559_022.yaml, hash: 'sha256:3851e4bdb212c5972670dc73006ea2dd4cc8a9be90350550951abf2a1ffac90f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0559_001.markers.yaml, hash: 'sha256:d16dfb907005ee35f87c634624e438edd6a1210f65a478eaaba055f7c6b0b59e'}
+  - {seq: 2, role: markers, filename: assets/KR6v0559_002.markers.yaml, hash: 'sha256:f63c66459bad6f3a48d59c83d11790f393d77842bc231407ffe4dc670da54bb5'}
+  - {seq: 3, role: markers, filename: assets/KR6v0559_003.markers.yaml, hash: 'sha256:40b07a514226741e39e230888ac027a4d90f01c7e311b28bcce2e20d7b338032'}
+  - {seq: 4, role: markers, filename: assets/KR6v0559_004.markers.yaml, hash: 'sha256:936421a78c59ccaad96a67801cbb88af03360398e3a0b08ecf0b1b6aef9d6669'}
+  - {seq: 5, role: markers, filename: assets/KR6v0559_005.markers.yaml, hash: 'sha256:2753ed64ad66a5f43d4a9552b32e5a58d9ce6b253c4787f2e2ae743106bf93b2'}
+  - {seq: 6, role: markers, filename: assets/KR6v0559_006.markers.yaml, hash: 'sha256:0c24682f5512b86fc206235564791772a3f40e91795884f97c278a5f1a69ba5b'}
+  - {seq: 7, role: markers, filename: assets/KR6v0559_007.markers.yaml, hash: 'sha256:3e1d6566e544810ec3e901f5aa059a2d1ed0a505222b63ab20447e5027bd478d'}
+  - {seq: 8, role: markers, filename: assets/KR6v0559_008.markers.yaml, hash: 'sha256:1ac879d7a121834fc0707f1bd309f2ff67cb518c6323a4e478d2ba0a0bf886ce'}
+  - {seq: 9, role: markers, filename: assets/KR6v0559_009.markers.yaml, hash: 'sha256:47caf78faf120d89b95c70abc41b9ac18950fd31cf7af91e8c85f09e5f2d7b55'}
+  - {seq: 10, role: markers, filename: assets/KR6v0559_010.markers.yaml, hash: 'sha256:0dc11f442486f2efb19748e1d8acfce5deb380feec998a5933bce352a358f248'}
+  - {seq: 11, role: markers, filename: assets/KR6v0559_011.markers.yaml, hash: 'sha256:f3c3c5d43ea7686ae4b99d0246a3ddd72605989a0e601f7e6ec281c4a0d7d7c7'}
+  - {seq: 12, role: markers, filename: assets/KR6v0559_012.markers.yaml, hash: 'sha256:dc1a75e903db0a5289972c4a290275645aadd169d23f9b09cec7f9a003cad12b'}
+  - {seq: 13, role: markers, filename: assets/KR6v0559_013.markers.yaml, hash: 'sha256:241468436f8fe72f4966f106bc2bfd7b7071654d42c14cdb3af13e1f2194bae6'}
+  - {seq: 14, role: markers, filename: assets/KR6v0559_014.markers.yaml, hash: 'sha256:9274877e33d9cecd720e5fbdf490282253f6455abf734acfb65f06ae29f8fa35'}
+  - {seq: 15, role: markers, filename: assets/KR6v0559_015.markers.yaml, hash: 'sha256:600c1347fa31424ae317f0cf057c5d032e9825921ca77a6df1df7cac54cbca70'}
+  - {seq: 16, role: markers, filename: assets/KR6v0559_016.markers.yaml, hash: 'sha256:60533c0ebc2528c5a4b48715a565e37144e6285e1f01905c751d5bc71d185a97'}
+  - {seq: 17, role: markers, filename: assets/KR6v0559_017.markers.yaml, hash: 'sha256:2c0b5eb06c48a8c7be5e5a22d77c446cfc683cc261fbb4eaf99f5b22ed96531d'}
+  - {seq: 18, role: markers, filename: assets/KR6v0559_018.markers.yaml, hash: 'sha256:e1fe2cb89c7ad00218648ecc77dbecc151cf97df6756d07a6a2c224c23435f30'}
+  - {seq: 19, role: markers, filename: assets/KR6v0559_019.markers.yaml, hash: 'sha256:94687003a66f11aa59a7821675b2b8d151d11bfc610cbb04e1ad51d8716b4020'}
+  - {seq: 20, role: markers, filename: assets/KR6v0559_020.markers.yaml, hash: 'sha256:a4ccd16898148e80451b13dd0c4e15381780f15ac158e63341e5f2fe4070586a'}
+  - {seq: 21, role: markers, filename: assets/KR6v0559_021.markers.yaml, hash: 'sha256:0a60e3d7b4f3906c7289cf587f8eceb9ef9a9b8d911d37a5d2e68bf8b70de68a'}
+  - {seq: 22, role: markers, filename: assets/KR6v0559_022.markers.yaml, hash: 'sha256:deb2b60894d728c5ac4ee798cbc2e3cd3f137fafebd21ee104bc97b5731cb12b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-juan-start
+    span:
+    - body
+    - 0
+    - 10555
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 教釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛說十善業道經講要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-3
+    span:
+    - body
+    - 24
+    - 24
+  label: 科分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-4
+    span:
+    - body
+    - 329
+    - 329
+  label: 懸論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-5
+    span:
+    - body
+    - 331
+    - 331
+  label: 一　契理與應機
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-6
+    span:
+    - body
+    - 486
+    - 486
+  label: 甲　契理之實義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-7
+    span:
+    - body
+    - 567
+    - 567
+  label: １　十善業為世出世善行之大宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-8
+    span:
+    - body
+    - 1080
+    - 1080
+  label: ２　十善業為造成人間天國之正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-9
+    span:
+    - body
+    - 1465
+    - 1465
+  label: ３　十善業為涅槃菩提根本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-10
+    span:
+    - body
+    - 1592
+    - 1592
+  label: 乙　應機之對治
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-11
+    span:
+    - body
+    - 1672
+    - 1672
+  label: １　對治鶩外忘己而修已
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-12
+    span:
+    - body
+    - 2052
+    - 2052
+  label: ２　對治意誇行劣而重行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-13
+    span:
+    - body
+    - 2361
+    - 2361
+  label: ３　對治欲高福薄而培福
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-14
+    span:
+    - body
+    - 2610
+    - 2610
+  label: 二　經題與譯題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-15
+    span:
+    - body
+    - 2616
+    - 2616
+  label: 甲　釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-16
+    span:
+    - body
+    - 2940
+    - 2940
+  label: 乙　釋譯題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-17
+    span:
+    - body
+    - 3084
+    - 3084
+  label: 釋經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-18
+    span:
+    - body
+    - 3086
+    - 3086
+  label: 甲一　證信
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-19
+    span:
+    - body
+    - 3568
+    - 3568
+  label: 甲二　正說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-20
+    span:
+    - body
+    - 3572
+    - 3572
+  label: 乙一　明世出世業果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-21
+    span:
+    - body
+    - 3580
+    - 3580
+  label: 丙一　就因明果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-22
+    span:
+    - body
+    - 3824
+    - 3824
+  label: 丙二　即果明因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-23
+    span:
+    - body
+    - 3933
+    - 3933
+  label: 丙三　舉因相明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-24
+    span:
+    - body
+    - 3939
+    - 3939
+  label: 丁一　觀心無主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-25
+    span:
+    - body
+    - 4042
+    - 4042
+  label: 丁二　觀法如幻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-26
+    span:
+    - body
+    - 4210
+    - 4210
+  label: 丁三　勸應修善
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-27
+    span:
+    - body
+    - 4298
+    - 4298
+  label: 丙四　舉果相證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-28
+    span:
+    - body
+    - 4304
+    - 4304
+  label: 丁一　以佛果證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-29
+    span:
+    - body
+    - 4432
+    - 4432
+  label: 丁二　以菩薩證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-30
+    span:
+    - body
+    - 4484
+    - 4484
+  label: 丁三　以天龍證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-31
+    span:
+    - body
+    - 4569
+    - 4569
+  label: 丁四　以海眾證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-32
+    span:
+    - body
+    - 4655
+    - 4655
+  label: 丙五　結勸修學
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-33
+    span:
+    - body
+    - 4944
+    - 4944
+  label: 乙二　正明十善業道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-34
+    span:
+    - body
+    - 4952
+    - 4952
+  label: 丙一　顯善法用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-35
+    span:
+    - body
+    - 5101
+    - 5101
+  label: 丙二　釋善法名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-36
+    span:
+    - body
+    - 5213
+    - 5213
+  label: 丙三　出善法相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-37
+    span:
+    - body
+    - 6450
+    - 6450
+  label: 乙三　明十善業功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-38
+    span:
+    - body
+    - 6458
+    - 6458
+  label: 丙一　明離殺生功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-39
+    span:
+    - body
+    - 6852
+    - 6852
+  label: 丙二　明離偷盜功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-40
+    span:
+    - body
+    - 7086
+    - 7086
+  label: 丙三　明離邪行功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-41
+    span:
+    - body
+    - 7248
+    - 7248
+  label: 丙四　明離妄語功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-42
+    span:
+    - body
+    - 7459
+    - 7459
+  label: 丙五　明離兩舌功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-43
+    span:
+    - body
+    - 7643
+    - 7643
+  label: 丙六　明離惡口功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-44
+    span:
+    - body
+    - 7831
+    - 7831
+  label: 丙七　明離綺語功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-45
+    span:
+    - body
+    - 8134
+    - 8134
+  label: 丙八　明離貪欲功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-46
+    span:
+    - body
+    - 8367
+    - 8367
+  label: 丙九　明離瞋恚功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-47
+    span:
+    - body
+    - 8597
+    - 8597
+  label: 丙十　明離邪見功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-48
+    span:
+    - body
+    - 8890
+    - 8890
+  label: 乙四　明十善業勝行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-49
+    span:
+    - body
+    - 8898
+    - 8898
+  label: 丙一　明六度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-50
+    span:
+    - body
+    - 8903
+    - 8903
+  label: 丁一　廣明布施度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-51
+    span:
+    - body
+    - 9421
+    - 9421
+  label: 丁二　略明餘五度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-52
+    span:
+    - body
+    - 9559
+    - 9559
+  label: 丙二　明眾行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-53
+    span:
+    - body
+    - 9564
+    - 9564
+  label: 丁一　四無量心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-54
+    span:
+    - body
+    - 9708
+    - 9708
+  label: 丁二　四攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-55
+    span:
+    - body
+    - 9760
+    - 9760
+  label: 丁三　三十七菩提分等
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-56
+    span:
+    - body
+    - 10174
+    - 10174
+  label: 丙三　結廣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-57
+    span:
+    - body
+    - 10232
+    - 10232
+  label: 乙五　明十善業殊勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0559_TX_001-mulu-58
+    span:
+    - body
+    - 10377
+    - 10377
+  label: 甲三　流通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-juan-start
+    span:
+    - body
+    - 0
+    - 17088
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛說善生經講錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 科分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-3
+    span:
+    - body
+    - 382
+    - 382
+  label: 懸論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-4
+    span:
+    - body
+    - 417
+    - 417
+  label: 一　就經題以略解名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-5
+    span:
+    - body
+    - 446
+    - 446
+  label: 甲　善
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-6
+    span:
+    - body
+    - 1016
+    - 1016
+  label: 乙　生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-7
+    span:
+    - body
+    - 1196
+    - 1196
+  label: 丙　經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-8
+    span:
+    - body
+    - 1471
+    - 1471
+  label: 丁　善生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-9
+    span:
+    - body
+    - 1546
+    - 1546
+  label: 戊　善生經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-10
+    span:
+    - body
+    - 1570
+    - 1570
+  label: 二　就善生以寄明法要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-11
+    span:
+    - body
+    - 1579
+    - 1579
+  label: 甲　就法以明善生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-12
+    span:
+    - body
+    - 2444
+    - 2444
+  label: 乙　就人以明善生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-13
+    span:
+    - body
+    - 2654
+    - 2654
+  label: 三　明此經說義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-14
+    span:
+    - body
+    - 2660
+    - 2660
+  label: 甲　就佛說此經以明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-15
+    span:
+    - body
+    - 3347
+    - 3347
+  label: 乙　就今講此經以明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-16
+    span:
+    - body
+    - 3981
+    - 3981
+  label: 四　明此經譯史
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-17
+    span:
+    - body
+    - 4337
+    - 4337
+  label: 釋經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-18
+    span:
+    - body
+    - 4339
+    - 4339
+  label: 甲一　證信緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-19
+    span:
+    - body
+    - 4345
+    - 4345
+  label: 乙一　證信序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-20
+    span:
+    - body
+    - 4713
+    - 4713
+  label: 乙二　緣起序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-21
+    span:
+    - body
+    - 4718
+    - 4718
+  label: 丙一　述父囑
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-22
+    span:
+    - body
+    - 5472
+    - 5472
+  label: 丙二　正行禮
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-23
+    span:
+    - body
+    - 5686
+    - 5686
+  label: 丙三　述佛見
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-24
+    span:
+    - body
+    - 5898
+    - 5898
+  label: 丙四　佛垂問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-25
+    span:
+    - body
+    - 6187
+    - 6187
+  label: 丙五　答佛問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-26
+    span:
+    - body
+    - 6580
+    - 6580
+  label: 甲二　應機正說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-27
+    span:
+    - body
+    - 6586
+    - 6586
+  label: 乙一　因機贊善
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-28
+    span:
+    - body
+    - 6802
+    - 6802
+  label: 乙二　汎說諸法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-29
+    span:
+    - body
+    - 6808
+    - 6808
+  label: 丙一　四業穢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-30
+    span:
+    - body
+    - 7386
+    - 7386
+  label: 丙二　四罪福
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-31
+    span:
+    - body
+    - 7391
+    - 7391
+  label: 丁一　四事罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-32
+    span:
+    - body
+    - 7909
+    - 7909
+  label: 丁二　四事福
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-33
+    span:
+    - body
+    - 8107
+    - 8107
+  label: 丙三　六非道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-34
+    span:
+    - body
+    - 8112
+    - 8112
+  label: 丁一　長行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-35
+    span:
+    - body
+    - 8116
+    - 8116
+  label: 戊一　略標
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-36
+    span:
+    - body
+    - 8423
+    - 8423
+  label: 戊二　廣釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-37
+    span:
+    - body
+    - 8427
+    - 8427
+  label: 己一　釋戲求過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-38
+    span:
+    - body
+    - 8651
+    - 8651
+  label: 己二　釋非時行過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-39
+    span:
+    - body
+    - 8798
+    - 8798
+  label: 己三　釋飲酒放逸過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-40
+    span:
+    - body
+    - 9031
+    - 9031
+  label: 己四　釋近惡友過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-41
+    span:
+    - body
+    - 9238
+    - 9238
+  label: 己五　釋喜妓樂過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-42
+    span:
+    - body
+    - 9391
+    - 9391
+  label: 己六　釋懶墮過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-43
+    span:
+    - body
+    - 10132
+    - 10132
+  label: 丁二　重頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-44
+    span:
+    - body
+    - 10444
+    - 10444
+  label: 丙四　四似親
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-45
+    span:
+    - body
+    - 10449
+    - 10449
+  label: 丁一　總標
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-46
+    span:
+    - body
+    - 10761
+    - 10761
+  label: 丁二　別釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-47
+    span:
+    - body
+    - 10765
+    - 10765
+  label: 戊一　釋知事非親
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-48
+    span:
+    - body
+    - 11017
+    - 11017
+  label: 戊二　釋面前愛言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-49
+    span:
+    - body
+    - 11242
+    - 11242
+  label: 戊三　釋言語非親
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-50
+    span:
+    - body
+    - 11512
+    - 11512
+  label: 戊四　釋惡趣伴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-51
+    span:
+    - body
+    - 11713
+    - 11713
+  label: 丙五　四善親
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-52
+    span:
+    - body
+    - 11718
+    - 11718
+  label: 丁一　總標
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-53
+    span:
+    - body
+    - 11901
+    - 11901
+  label: 丁二　別釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-54
+    span:
+    - body
+    - 11905
+    - 11905
+  label: 戊一　釋同苦樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-55
+    span:
+    - body
+    - 12173
+    - 12173
+  label: 戊二　釋愍念
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-56
+    span:
+    - body
+    - 12317
+    - 12317
+  label: 戊三　釋求利
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-57
+    span:
+    - body
+    - 12510
+    - 12510
+  label: 戊四　釋饒益
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-58
+    span:
+    - body
+    - 12705
+    - 12705
+  label: 乙三　正說六方
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-59
+    span:
+    - body
+    - 12711
+    - 12711
+  label: 丙一　長行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-60
+    span:
+    - body
+    - 12715
+    - 12715
+  label: 丁一　總標
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-61
+    span:
+    - body
+    - 12888
+    - 12888
+  label: 丁二　別釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-62
+    span:
+    - body
+    - 12892
+    - 12892
+  label: 戊一　東方父子
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-63
+    span:
+    - body
+    - 13466
+    - 13466
+  label: 戊二　南方師弟
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-64
+    span:
+    - body
+    - 13963
+    - 13963
+  label: 戊三　西方夫婦
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-65
+    span:
+    - body
+    - 14409
+    - 14409
+  label: 戊四　北方主僕
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-66
+    span:
+    - body
+    - 14756
+    - 14756
+  label: 戊五　下方親族
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-67
+    span:
+    - body
+    - 15000
+    - 15000
+  label: 戊六　上方施僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-68
+    span:
+    - body
+    - 15920
+    - 15920
+  label: 丁三　明四攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-69
+    span:
+    - body
+    - 16174
+    - 16174
+  label: 丙二　重頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0559_TX_002-mulu-70
+    span:
+    - body
+    - 16916
+    - 16916
+  label: 甲三　如說奉行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0559_TX_003-juan-start
+    span:
+    - body
+    - 0
+    - 1211
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0559_TX_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 義繹
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0559_TX_003-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 構成佛教之要素
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0559_TX_004-juan-start
+    span:
+    - body
+    - 0
+    - 1514
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0559_TX_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 生命之研究
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0559_TX_004-mulu-2
+    span:
+    - body
+    - 876
+    - 876
+  label: （附）答生命研究之疑問
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-juan-start
+    span:
+    - body
+    - 0
+    - 4064
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 生命之起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-3
+    span:
+    - body
+    - 87
+    - 87
+  label: 一　生命是什麼
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-4
+    span:
+    - body
+    - 967
+    - 967
+  label: 二　科學說生命起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-5
+    span:
+    - body
+    - 1592
+    - 1592
+  label: 三　哲學說生命起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-6
+    span:
+    - body
+    - 2455
+    - 2455
+  label: 四　宗教說生命起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-7
+    span:
+    - body
+    - 2754
+    - 2754
+  label: 五　佛法對於生命之說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-8
+    span:
+    - body
+    - 2764
+    - 2764
+  label: 甲　法界眾生無始終
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-9
+    span:
+    - body
+    - 3025
+    - 3025
+  label: 乙　世界眾生可說起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0559_TX_005-mulu-10
+    span:
+    - body
+    - 3508
+    - 3508
+  label: 丙　有情一期業報可說起源
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0559_TX_006-juan-start
+    span:
+    - body
+    - 0
+    - 1408
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0559_TX_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三世因果
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-juan-start
+    span:
+    - body
+    - 0
+    - 2405
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 救世覺人之佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-3
+    span:
+    - body
+    - 104
+    - 104
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-4
+    span:
+    - body
+    - 183
+    - 183
+  label: 一　佛是為救世人而求得正覺者
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-5
+    span:
+    - body
+    - 1139
+    - 1139
+  label: 二　正覺是明徹人生世間真相的
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-6
+    span:
+    - body
+    - 1281
+    - 1281
+  label: 甲　緣起無盡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-7
+    span:
+    - body
+    - 1659
+    - 1659
+  label: 乙　性空無礙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-8
+    span:
+    - body
+    - 1786
+    - 1786
+  label: 三　解悟人生世間真相之成果
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-9
+    span:
+    - body
+    - 1798
+    - 1798
+  label: 甲　緣起無盡故得人生之真價
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-10
+    span:
+    - body
+    - 1982
+    - 1982
+  label: 乙　性空無礙故離世間之苦厄
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0559_TX_007-mulu-11
+    span:
+    - body
+    - 2102
+    - 2102
+  label: 四　佛法能覺世救人
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-juan-start
+    span:
+    - body
+    - 0
+    - 6722
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛教人乘正法論
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-2
+    span:
+    - body
+    - 15
+    - 15
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-3
+    span:
+    - body
+    - 115
+    - 115
+  label: 一　總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-4
+    span:
+    - body
+    - 943
+    - 943
+  label: 二　信仰皈依三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-5
+    span:
+    - body
+    - 1652
+    - 1652
+  label: 三　三皈
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-6
+    span:
+    - body
+    - 1918
+    - 1918
+  label: 四　五戒善法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-7
+    span:
+    - body
+    - 2230
+    - 2230
+  label: 五　在家六眾信徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-8
+    span:
+    - body
+    - 2642
+    - 2642
+  label: 六　不殘殺而仁愛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-9
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 七　不偷盜而義利
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-10
+    span:
+    - body
+    - 3612
+    - 3612
+  label: 八　不淫邪而禮節
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-11
+    span:
+    - body
+    - 3935
+    - 3935
+  label: 九　不欺誑而誠信
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-12
+    span:
+    - body
+    - 4089
+    - 4089
+  label: 十　不服亂性情品而調善身心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-13
+    span:
+    - body
+    - 4229
+    - 4229
+  label: 十一　五戒之類別
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-14
+    span:
+    - body
+    - 4415
+    - 4415
+  label: 十二　增上五戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-15
+    span:
+    - body
+    - 5004
+    - 5004
+  label: 十三　持戒之因果
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-16
+    span:
+    - body
+    - 5197
+    - 5197
+  label: 十四　傳授受持之方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0559_TX_008-mulu-17
+    span:
+    - body
+    - 5470
+    - 5470
+  label: 十五　斷疑生信
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-juan-start
+    span:
+    - body
+    - 0
+    - 1885
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生進善之階段
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-3
+    span:
+    - body
+    - 50
+    - 50
+  label: 一　人生之解析
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-4
+    span:
+    - body
+    - 1092
+    - 1092
+  label: 二　進善之階段
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-5
+    span:
+    - body
+    - 1144
+    - 1144
+  label: 一　生活之改善
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-6
+    span:
+    - body
+    - 1227
+    - 1227
+  label: 二　德行之改善
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-7
+    span:
+    - body
+    - 1321
+    - 1321
+  label: 三　定心之改進
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-8
+    span:
+    - body
+    - 1603
+    - 1603
+  label: 四　淨慧之改進
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0559_TX_009-mulu-9
+    span:
+    - body
+    - 1741
+    - 1741
+  label: 五　淨善之圓滿
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-juan-start
+    span:
+    - body
+    - 0
+    - 2499
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛學之人生道德
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-3
+    span:
+    - body
+    - 130
+    - 130
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-4
+    span:
+    - body
+    - 159
+    - 159
+  label: 一　以佛法為非倫理非人生的錯誤
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-5
+    span:
+    - body
+    - 342
+    - 342
+  label: 二　眾生升沈以人為樞紐
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-6
+    span:
+    - body
+    - 559
+    - 559
+  label: 三　人於一切眾生中最富刱造力
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-7
+    span:
+    - body
+    - 770
+    - 770
+  label: 四　佛法中五乘共法最重人生道德
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-8
+    span:
+    - body
+    - 1016
+    - 1016
+  label: 五　善生經之六方與儒家五倫
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-9
+    span:
+    - body
+    - 1593
+    - 1593
+  label: 六　人生道德之十善與五常
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-10
+    span:
+    - body
+    - 1896
+    - 1896
+  label: 七　以自他二方現未二世均益為善
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-11
+    span:
+    - body
+    - 2057
+    - 2057
+  label: 八　自他俱利之精義
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0559_TX_010-mulu-12
+    span:
+    - body
+    - 2387
+    - 2387
+  label: 九　以不害他及能利他為道德
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-juan-start
+    span:
+    - body
+    - 0
+    - 1315
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八正道與改善人群生活
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-2
+    span:
+    - body
+    - 28
+    - 28
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-3
+    span:
+    - body
+    - 91
+    - 91
+  label: 一　正見
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-4
+    span:
+    - body
+    - 172
+    - 172
+  label: 二　正欲（或正思維）
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-5
+    span:
+    - body
+    - 481
+    - 481
+  label: 三　正精進
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-6
+    span:
+    - body
+    - 585
+    - 585
+  label: 四　正業（或正命）
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-7
+    span:
+    - body
+    - 684
+    - 684
+  label: 五　正語
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-8
+    span:
+    - body
+    - 865
+    - 865
+  label: 六　正行
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-9
+    span:
+    - body
+    - 962
+    - 962
+  label: 七　正念
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0559_TX_011-mulu-10
+    span:
+    - body
+    - 1029
+    - 1029
+  label: 八　正定
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0559_TX_012-juan-start
+    span:
+    - body
+    - 0
+    - 2040
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0559_TX_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 學佛先從做人起
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0559_TX_013-juan-start
+    span:
+    - body
+    - 0
+    - 1837
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0559_TX_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛法原理與做人
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0559_TX_014-juan-start
+    span:
+    - body
+    - 0
+    - 3018
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0559_TX_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 真佛教徒——即俗即真的大乘行者
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0559_TX_015-juan-start
+    span:
+    - body
+    - 0
+    - 2181
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0559_TX_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 生活與生死
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0559_TX_016-juan-start
+    span:
+    - body
+    - 0
+    - 1649
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0559_TX_016-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-juan-start
+    span:
+    - body
+    - 0
+    - 3714
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生佛學的說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-3
+    span:
+    - body
+    - 65
+    - 65
+  label: 一　佛學之名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-4
+    span:
+    - body
+    - 184
+    - 184
+  label: 二　佛學之二大原則
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-5
+    span:
+    - body
+    - 331
+    - 331
+  label: 三　佛學之歷史遷變
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-6
+    span:
+    - body
+    - 786
+    - 786
+  label: 四　現代之人世與中國
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-7
+    span:
+    - body
+    - 958
+    - 958
+  label: 五　人生佛學之大旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-8
+    span:
+    - body
+    - 1457
+    - 1457
+  label: （附）崔參筆記
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-9
+    span:
+    - body
+    - 1462
+    - 1462
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-10
+    span:
+    - body
+    - 1560
+    - 1560
+  label: 甲　佛學之名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-11
+    span:
+    - body
+    - 2295
+    - 2295
+  label: 乙　佛學的兩大原則
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-12
+    span:
+    - body
+    - 2774
+    - 2774
+  label: 丙　佛教歷史的變遷
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-13
+    span:
+    - body
+    - 2782
+    - 2782
+  label: 丁　現代之人世與中國
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0559_TX_017-mulu-14
+    span:
+    - body
+    - 3229
+    - 3229
+  label: 戊　人生佛學之大旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0559_TX_018-juan-start
+    span:
+    - body
+    - 0
+    - 1935
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0559_TX_018-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生佛教開題
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0559_TX_018-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 一　人生佛教之意趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0559_TX_018-mulu-3
+    span:
+    - body
+    - 494
+    - 494
+  label: 二　何謂人生
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0559_TX_018-mulu-4
+    span:
+    - body
+    - 1203
+    - 1203
+  label: 三　人生佛教之目的及其效果
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-juan-start
+    span:
+    - body
+    - 0
+    - 2965
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生佛教與層創進化論
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-3
+    span:
+    - body
+    - 137
+    - 137
+  label: 一　人生佛教之層系
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-4
+    span:
+    - body
+    - 225
+    - 225
+  label: 甲　無始終無邊中之宇宙事變
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-5
+    span:
+    - body
+    - 459
+    - 459
+  label: 乙　事變中之有情眾生業果相續
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-6
+    span:
+    - body
+    - 907
+    - 907
+  label: 丙　有情業果相續流轉中之人生
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-7
+    span:
+    - body
+    - 1117
+    - 1117
+  label: 丁　有情流轉中繼善成性之人生
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-8
+    span:
+    - body
+    - 1583
+    - 1583
+  label: 戊　人生向上勝進中之超人
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-9
+    span:
+    - body
+    - 1761
+    - 1761
+  label: 己　人生向上進化至不退轉地菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-10
+    span:
+    - body
+    - 1883
+    - 1883
+  label: 庚　無始終無邊中之宇宙完美人生——佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0559_TX_019-mulu-11
+    span:
+    - body
+    - 2252
+    - 2252
+  label: 二　人生佛教層系與層刱進化論之比觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0559_TX_020-juan-start
+    span:
+    - body
+    - 0
+    - 893
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0559_TX_020-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生佛教之目的
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0559_TX_021-juan-start
+    span:
+    - body
+    - 0
+    - 1391
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0559_TX_021-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人生的佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0559_TX_022-juan-start
+    span:
+    - body
+    - 0
+    - 1060
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0559_TX_022-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 學佛之簡明標準
+  type: mulu
+  level: 1
+hash: sha256:63a46662250730d2eba93f5973054750e9815b9d55defdd9e93205900e285334
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
